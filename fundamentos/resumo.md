@@ -1,4 +1,4 @@
-# 📚 Resumo Teórico – Dia 1
+# 📚 Resumo Teórico
 
 ## 🔹 1. O que é QA (Quality Assurance)
 
@@ -12,8 +12,20 @@ QA é como um inspetor de fábrica que:
 - Verifica cada etapa da produção
 - Corrige processos antes que o produto final chegue ao cliente
 
-**Exemplo prático:**  
-Em um app de delivery, o QA analisa se o usuário recebe notificação ao sair para entrega, mesmo se o app estiver offline.
+**Como é a base de atuação de um QA:**
+A metodologia de Garantia de Qualidade tem um ciclo definido chamado de ciclo PDCA ou ciclo de Deming:
+- Planejar
+- Executar
+- Verificar
+- Agir
+
+Essas etapas estão em constante uso, buscando garantir que os processos seguidos na organização sejam avaliados e aprimorados periodicamente, sendo assim:
+- Planejar: A organização deve planejar e estabelecer os objetivos relacionados ao processo e determinar os processos necessários para entregar um produto final de alta qualidade.
+- Executar: Desenvolvimento e teste de processos, além de executar mudanças nos processos.
+- Verificar: Monitoramento de processos, modificação de processos e verificar se atende aos objetivos pré-determinados.
+- Agir: Um QA tester deve implementar as ações necessárias para alcançar melhorias nos processos.
+
+Com isso, a organização deve usar o QA para garantir que o produto seja projetado e implementado com os procedimentos corretos. Reduzindo problemas e erros no produto final.
 
 ---
 
