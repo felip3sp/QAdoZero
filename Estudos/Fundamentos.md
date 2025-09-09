@@ -1,6 +1,6 @@
 # 📚 Resumo Teórico
 
-## 🔹 1. O que é QA (Quality Assurance)
+## 🔹 O que é QA (Quality Assurance)
 
 **Definição:**  
 Quality Assurance é um conjunto de práticas voltadas para garantir a qualidade de um software durante todo o seu ciclo de desenvolvimento. O objetivo é prevenir falhas e garantir que o sistema atenda aos requisitos e funcione corretamente.

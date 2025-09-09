@@ -24,7 +24,7 @@ Dedica-se a verificar as funcionalidades do software de forma individual. A inte
 
 ### - Teste de componentes
 
-Como o próprio nome sugere, esse teste analisa os componentes do software de forma separada, de acordo com as especificações e estrutura de cada funcionalidade. Esses componentes reference as integrações de unidades do software e a interface.
+Como o próprio nome sugere, esse teste analisa os componentes do software de forma separada, de acordo com as especificações e estrutura de cada funcionalidade. Esses componentes referem-se as integrações de unidades do software e a interface.
 
 ### - Teste de integração
 

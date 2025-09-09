@@ -18,31 +18,43 @@ Conceitos básicos e essenciais de QA, incluindo:
 - Tipos e níveis de teste
 - Abordagens de teste (caixa preta, branca, cinza)
 
-Os arquivos nesta pasta são:
-- `resumo.md`: anotações teóricas dos conceitos estudados
-- `atividade.md`: exercícios e desafios práticos sobre o tema
+### 🧪 Tipos de Testes
 
-### 🧪 Testes Manuais
+Conceitos básicos, quando e onde cada um é aplicado:
+- Testes funcionais
+- Teste de unidade
+- Teste de componentes
+- Teste de integração
+- Teste de sistema
+- Teste de aceitação
+- Teste de regressão
+- Testes exploratórios
+- Teste de segurança
+- Teste de desempenho
+- Teste E2E(Ponta a ponta)
+- Testes automatizados
 
-Aplicação prática dos conceitos em cenários manuais:
-- Planejamento e execução de testes
-- Criação de roteiros
-- Identificação de falhas
+### 🧾 Artefatos de Testes
 
-### 📝 Casos de Teste
+Principais artefatos de teste, sua importância e aplicação no processo de QA:
+- Plano de teste
+- Critérios de aceitação
+- Caso de teste
+- Histórico de execuções dos casos de teste
+- Relatório de Bug
+- Histórico de bugs
+- Relatórios de entrega
+- Métricas
 
-Aprendizado e prática sobre como:
-- Escrever casos de teste de forma clara e objetiva
-- Usar estrutura padrão (ID, título, pré-condições, passos, resultado esperado)
+### 📑 Processos de Testes
 
-### 🐞 Relatórios de Bug
+### ☁️ Azure DevOps
 
-Registro de defeitos encontrados com foco em:
-- Clareza
-- Reprodutibilidade
-- Comunicação técnica
+### ⚙️ Introdução à Automação de Testes
 
-### ⚙️ Ferramentas (em breve)
+### 📑 Padrões de Projetos
+
+### 🔧 Ferramentas
 
 Exploração e uso de ferramentas como:
 - Postman
