@@ -1,4 +1,4 @@
-## 🔹 Tipos de Testes
+# 🧪 Tipos de Testes
 
 No universo de Quality Assurance (QA), a garantia da qualidade de software vai muito além da simples execução de testes. Cada aplicação possui necessidades específicas, e é fundamental compreender quais tipos de testes aplicar em cada situação para assegurar que o produto final seja confiável, funcional e atenda às expectativas do usuário.
 

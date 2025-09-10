@@ -37,16 +37,22 @@ Conceitos básicos, quando e onde cada um é aplicado:
 ### 🧾 Artefatos de Testes
 
 Principais artefatos de teste, sua importância e aplicação no processo de QA:
+- Estratégia de teste
 - Plano de teste
-- Critérios de aceitação
+- Cenário de teste
 - Caso de teste
-- Histórico de execuções dos casos de teste
-- Relatório de Bug
-- Histórico de bugs
-- Relatórios de entrega
-- Métricas
+- Matriz de rastreabilidade
+- Relatório de teste de software
+- Relatório de defeitos (Bug Report)
+
 
 ### 📑 Processos de Testes
+
+Padrão para exemplificar os processos de testes executados por times de qualidade:
+- Análise
+- Planejamento
+- Execução
+- Entrega
 
 ### ☁️ Azure DevOps
 

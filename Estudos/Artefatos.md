@@ -1,6 +1,10 @@
-## Artefatos de teste
+# 🧾 Artefatos de teste
 
-Os artefatos de teste fazem parte do teste de software, são conjuntos de documentos que o testador obtém durante o STLC(Ciclo de Vida do Teste de Software). Eles são criados durante o processo de teste de software. São basicamente registros que mostram quais testes foram feitos, como foram feitos e o que foi encontrado. Os artefatos de teste ajudam todos os envolvidos no projeto a entender o processo de teste e acompanhar o que foi testado. Eles facilitam o gerenciamento e a revisão do trabalho de teste, garantindo que nada seja perdido. O intuito é fornecer prova do trabalho realizado durante o teste e ajudar a fornecer um software de alta qualidade.
+Os artefatos de teste são parte essencial do processo de qualidade de software. Eles podem ser compreendidos tanto dentro do SDLC (Ciclo de Vida do Desenvolvimento de Software), como entregáveis do projeto, quanto dentro do STLC (Ciclo de Vida do Teste de Software), como registros criados especificamente durante a execução dos testes.
+
+Esses artefatos incluem documentos como plano de teste, casos de teste, relatórios de defeitos e métricas de execução. Sua função é registrar quais testes foram realizados, como foram conduzidos e quais resultados foram encontrados, permitindo transparência, rastreabilidade e acompanhamento do progresso.
+
+Além de facilitar o gerenciamento e a revisão do trabalho de teste, eles servem como evidência formal do processo de QA, garantindo que o produto final atenda aos requisitos de negócio e seja entregue com qualidade.
 
 ### Estratégia de teste
 
@@ -34,6 +38,8 @@ Um cenário de teste é uma declaração usada para descrever uma funcionalidade
 É derivado dos casos de uso e contém situações ou condições na aplicação a partir das quais vários casos de teste podem ser desenvolvidos. Também é chamado de Condição de Teste ou Possibilidade de Teste.
 Um único cenário pode incluir vários casos de teste, ou seja, existe uma relação de um-para-muitos entre eles.
 
+Diferença entre Cenário de teste e Caso de teste: o cenário é genérico, enquanto o caso é detalhado e contém passos, dados e resultados esperados.
+
 ### Caso de teste
 
 O caso de teste é um documento detalhado que descreve os passos que ajudam na execução durante o teste. Ele contém o nome do caso de teste, pré-condições, passos/condições de entrada e os resultados esperados.
@@ -47,5 +53,31 @@ Para escrever um bom caso de teste, recomenda-se:
 - Listar os passos de forma clara e concisa.
 - Registrar os resultados esperados e/ou reais.
 
-### Matriz de Rastreabilidade
+### Matriz de rastreabilidade
+
+A matriz de rastreabilidade é um documento em forma de tabela que mostra os relacionamentos muitos-para-muitos entre requisitos e casos de teste. Ela garante transparência e completude no processo de testes, mapeando todos os requisitos do cliente com os casos de teste e identificando defeitos.
+
+Tipos:
+- Matriz de rastreabilidade direta (Forward)
+- Matriz de rastreabilidade reversa (Backward)
+
+Parâmetros comuns incluídos:
+- ID do requisito
+- Tipo e descrição do requisito
+- Status do design e da execução do teste
+- Casos de teste de sistema e unitários
+
+### Relatório de teste de software
+
+É o documento que descreve todas as atividades de teste. Ele fornece informações detalhadas sobre o status dos casos de teste, suítes de teste ou scripts de teste em um determinado escopo. O relatório de teste é necessário para representar os resultados de maneira formal e rápida, ajudando a identificar os resultados de forma objetiva.
+
+Tipos:
+- Relatório individual de teste
+- Relatório de equipe
+
+Eles podem ser gerados diariamente, após a conclusão do teste ou no fim do ciclo de testes.
+
+### Relatório de defeitos (Bug Report)
+
+O objetivo é registrar informações detalhadas (como ambiente, passos para reproduzir etc) sobre o defeito, facilitando a reprodução do bug pelos desenvolvedores.
 
