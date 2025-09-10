@@ -42,7 +42,7 @@ O QA é o arquiteto da qualidade; o testador é o detetive de bugs.
 
 ---
 
-## 🔹 3. SDLC – Ciclo de Vida do Desenvolvimento
+## 🔹 3. SDLC – Ciclo de Vida do Desenvolvimento de Software
 
 **Fases:**
 1. **Levantamento de Requisitos** – entender o que o cliente precisa
@@ -55,7 +55,7 @@ O QA é o arquiteto da qualidade; o testador é o detetive de bugs.
 
 ---
 
-## 🔹 4. STLC – Ciclo de Vida do Teste
+## 🔹 4. STLC – Ciclo de Vida do Teste de Software
 
 **Fases:**
 1. **Análise de Requisitos** – entender o que precisa ser testado
