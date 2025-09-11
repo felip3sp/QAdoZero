@@ -18,45 +18,67 @@ Casos de uso: Método que descreve as interações entre os atores, os quais pod
 
 Análise do valor limite: Utiliza testes nos limites entre partições. Assim, esse método envolve limites mínimos, máximos, externos e internos, e também valores de erro e valores típicos. Pode constatar erros nos limites dos valores de entrada, fornecendo uma seleção de casos que tenham valores limitantes. Deste modo, a técnica utiliza o pretexto de que se um software não apresenta erros para os valores específicos, então ele vai funcionar adequadamente para quaisquer valores entre os limites.
 
+---
+
 ### - Teste de unidade
 
 Dedica-se a verificar as funcionalidades do software de forma individual. A intenção é garantir que elas passem por testes pelo menos uma vez, com isso, a maior vantagem do teste de unidade é a prevenção de falhas, já que analisa cada uma das funcionalidades.
+
+---
 
 ### - Teste de componentes
 
 Como o próprio nome sugere, esse teste analisa os componentes do software de forma separada, de acordo com as especificações e estrutura de cada funcionalidade. Esses componentes referem-se as integrações de unidades do software e a interface.
 
+---
+
 ### - Teste de integração
 
 Quando for necessário testar múltiplas unidades juntas para ver se integradas umas às outras funcionam corretamente podemos escrever testes de integração. Um exemplo de teste de integração é ver se um formulário de login funciona (se o componente ''button'' junto com ''input'' e ''form'' vão chamar sua callback se os valores de entrada são válidos).
+
+---
 
 ### - Teste de sistema
 
 O teste de sistema acontece logo após a finalização do sistema. Assim, é possível analisar cada um dos componentes e funcionalidades. O intuito é fazer uma avaliação do software, para atestar que as descrições dos elementos do sistema ocorreram de acordo com as especificações.
 
+---
+
 ### - Teste de aceitação
 
 O objetvio desse teste é verificar se o sistema funciona corretamente, cumprindo as especificações dos requisitos do software. Ele serve para analisar se o software atua de acordo com as regras de negócios determinadas pelo cliente.
+
+---
 
 ### - Teste de regressão
 
 Testa se algo mudou em relação ao que já estava funcionando corretamente, ou seja, é voltar a testar segmentos já testados após uma mudança em outra parte do software. Os testes de regressão devem ser feitos tanto no software quanto na documentação.
 
+---
+
 ### - Testes exploratórios
 
 São uma abordagem de teste em que o testador atua como um ''explorador'' do software, investigando e avaliando o sistema de forma ativa. O testador utiliza sua experiência, conhecimento do domínio e habilidades técnicas para identificar possíveis defeitos e comportamentos inesperados do software.
+
+---
 
 ### - Teste de segurança
 
 Valida a proteção do sistema contra invasões ou acesso não autorizado a informações.
 
+---
+
 ### - Teste de desempenho
 
 Valida o tempo de resposta do sistema para determinadas operações, ferramentas utilizadas: JMeter, Cypress, Selenium e outras.
 
+---
+
 ### - Teste E2E(Ponta a ponta)
 
 Esses testes vão testar se uma funcionalidade completa da sua aplicação está de acordo, idealmente sem nenhum mock utilizado. A ideia é replicar ao máximo a experiência do usuário, como se fosse um robô no lugar dele fazendo as mesmas tarefas e vendo se é possível ou não completar de forma correta.
+
+---
 
 ### - Testes automatizados
 

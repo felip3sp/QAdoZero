@@ -29,6 +29,8 @@ A fase de **Análise** no processo de testes é fundamental para garantir que to
 - Critérios de Aceitação.
 - Estimativa da Homologação.
 
+---
+
 ### 🔹 Metadados
 - Projeto.
 - Módulos com desenvolvimento.
@@ -41,3 +43,5 @@ A fase de **Análise** no processo de testes é fundamental para garantir que to
 - Quantidade de atividades a serem testadas.
 - Quantidade total de módulos a serem testados.
 - Quantidade total de horas de homologação.
+
+---

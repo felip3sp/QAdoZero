@@ -6,6 +6,8 @@ Esses artefatos incluem documentos como plano de teste, casos de teste, relatór
 
 Além de facilitar o gerenciamento e a revisão do trabalho de teste, eles servem como evidência formal do processo de QA, garantindo que o produto final atenda aos requisitos de negócio e seja entregue com qualidade.
 
+---
+
 ### Estratégia de teste
 
 Estratégia de teste é um documento de alto nível (documento estático) que descreve a abordagem de teste, incluindo os objetvios, recursos, cronograma e escopo das atividades de teste. Geralmente é desenvolvido por um gerente de projeto. É um documento que captura a abordagem de como testamos o produto e atingimos os objetivos. Fornece fácil compreensão de destinos, ferramentas, técnicas, infraestrutura e tempo de atividades de teste que devem ser executadas. É usado para identificar todos os fatores de risco que podem surgir durante o teste e a solução apropriada para reduzir ou mitigar o risco. A estratégia de teste geralmente é derivada do Formato de Especificação de Requisitos de Negócios. Para desenvolver essa estratégia, há vários pontos que precisam ser lembrados, como:
@@ -18,6 +20,8 @@ Estratégia de teste é um documento de alto nível (documento estático) que de
 - Qual será o principal entregável desse teste?
 - Quais riscos existem em relação ao teste e ao projeto?
 - Há métodos para resolver problemas que possam surgir?
+
+---
 
 ### Plano de teste
 
@@ -32,6 +36,8 @@ Pontos principais a considerar:
 - Quais são os critérios de saída após a conclusão do teste?
 - Como os riscos serão gerenciados?
 
+---
+
 ### Cenário de teste
 
 Um cenário de teste é uma declaração usada para descrever uma funcionalidade da aplicação que pode ser testada. Ele garante que o teste ponta a ponta de uma funcionalidade ou software está funcionando corretamente.
@@ -39,6 +45,8 @@ Um cenário de teste é uma declaração usada para descrever uma funcionalidade
 Um único cenário pode incluir vários casos de teste, ou seja, existe uma relação de um-para-muitos entre eles.
 
 Diferença entre Cenário de teste e Caso de teste: o cenário é genérico, enquanto o caso é detalhado e contém passos, dados e resultados esperados.
+
+---
 
 ### Caso de teste
 
@@ -52,6 +60,8 @@ Para escrever um bom caso de teste, recomenda-se:
 - Descrever detalhadamente o caso.
 - Listar os passos de forma clara e concisa.
 - Registrar os resultados esperados e/ou reais.
+
+---
 
 ### Matriz de rastreabilidade
 
@@ -67,6 +77,8 @@ Parâmetros comuns incluídos:
 - Status do design e da execução do teste
 - Casos de teste de sistema e unitários
 
+---
+
 ### Relatório de teste de software
 
 É o documento que descreve todas as atividades de teste. Ele fornece informações detalhadas sobre o status dos casos de teste, suítes de teste ou scripts de teste em um determinado escopo. O relatório de teste é necessário para representar os resultados de maneira formal e rápida, ajudando a identificar os resultados de forma objetiva.
@@ -76,6 +88,8 @@ Tipos:
 - Relatório de equipe
 
 Eles podem ser gerados diariamente, após a conclusão do teste ou no fim do ciclo de testes.
+
+---
 
 ### Relatório de defeitos (Bug Report)
 
